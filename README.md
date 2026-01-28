@@ -1,7 +1,7 @@
 # 🚀 Parmesh Kumar - Professional Portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://parmesh-kumar-ai.vercel.app)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE.md)
 [![Built with Astro](https://img.shields.io/badge/Built%20with-Astro-FF5D01?style=for-the-badge&logo=astro)](https://astro.build)
 
 > A modern, responsive portfolio website showcasing my journey as a Data Scientist, Business Strategist, and Product Manager.
