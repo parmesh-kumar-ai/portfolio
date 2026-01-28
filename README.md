@@ -1,6 +1,6 @@
 # 🚀 Parmesh Kumar - Professional Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-portfolio-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://parmesh-kumar-ai.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Built with Astro](https://img.shields.io/badge/Built%20with-Astro-FF5D01?style=for-the-badge&logo=astro)](https://astro.build)
 
@@ -13,7 +13,7 @@ Data Scientist and Business Strategist with 4+ years of experience in corporate 
 - 🎓 **MBA in Data Science** - IIM Visakhapatnam
 - 🎓 **M.Sc. in Physics** - IIT Kharagpur
 - 💼 Currently: **Chief Strategy Officer** at Biomexia Healthcare
-- 🌐 **Portfolio**: [your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
+- 🌐 **Portfolio**: [visit here](https://parmesh-kumar-ai.vercel.app)
 
 ---
 
@@ -203,10 +203,9 @@ module.exports = {
 ## 📫 Contact Me
 
 - 📧 **Email**: [parmesh.kumar.ai@gmail.com](mailto:parmesh.kumar.ai@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/parmesh-kumar](https://linkedin.com/in/parmesh-kumar)
+- 💼 **LinkedIn**: [linkedin.com/in/parmesh-kumar](https://linkedin.com/in/parmesh-kumar-ai)
 - 🐱 **GitHub**: [github.com/parmesh-kumar-ai](https://github.com/parmesh-kumar-ai)
-- 🎨 **Behance**: [behance.net/parmeshkumar](https://behance.net/parmeshkumar)
-- 📍 **Location**: Delhi, India
+- 🎨 **Behance**: [behance.net/parmeshkumar](https://behance.net/parmesh-kumar-ai)
 
 ---
 
@@ -285,7 +284,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### **For Recruiters**
 - Check out the [Projects](#-featured-projects) section for my technical capabilities
 - Review my [Experience](#-professional-experience) for business impact
-- Download my [resume](public/resume.pdf) for detailed information
 
 ### **For Developers**
 - Feel free to fork and customize for your own use
@@ -294,7 +292,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **For Collaboration**
 - I'm open to interesting projects and opportunities
-- Reach out via [email](mailto:parmesh.kumar.ai@gmail.com) or [LinkedIn](https://linkedin.com/in/parmesh-kumar)
+- Reach out via [email](mailto:parmesh.kumar.ai@gmail.com) or [LinkedIn](https://linkedin.com/in/parmesh-kumar-ai)
 
 ---
 
@@ -302,7 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you like this portfolio, give it a star!
 
-**Made with ❤️ by [Parmesh Kumar](https://github.com/parmesh-kumar-ai)**
+**Made by [Parmesh Kumar](https://github.com/parmesh-kumar-ai)**
 
 </div>
 
@@ -311,21 +309,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop View](desktopviewinlightmode.png)
 
 ### Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile View](mobileview.png)
 
 ### Dark Mode
-![Dark Mode Screenshot](screenshots/dark-mode.png)
+![Dark Mode View](desktopviewindarkmode.png)
 
 ---
 
 ## 🔗 Quick Links
 
-- [Live Portfolio](https://your-portfolio-url.vercel.app)
-- [Resume PDF](public/resume.pdf)
-- [LinkedIn Profile](https://linkedin.com/in/parmesh-kumar)
+- [Live Portfolio](https://parmesh-kumar-ai.vercel.app)
+- [LinkedIn Profile](https://linkedin.com/in/parmesh-kumar-ai)
 - [GitHub Profile](https://github.com/parmesh-kumar-ai)
 - [Email Me](mailto:parmesh.kumar.ai@gmail.com)
 
@@ -335,6 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Open to opportunities in Data Science, Business Strategy, Consulting, and Product Management**
 
-[View Portfolio](https://your-portfolio-url.vercel.app) • [Download Resume](public/resume.pdf) • [Contact Me](mailto:parmesh.kumar.ai@gmail.com)
+[View Portfolio](https://parmesh-kumar-ai.vercel.app) • [Contact Me](mailto:parmesh.kumar.ai@gmail.com)
 
 </div>
