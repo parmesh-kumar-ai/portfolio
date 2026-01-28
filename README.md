@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop View](desktopviewinlightmode.png)
+![Desktop View](desktopviewinlight.png)
 
 ### Mobile View
 ![Mobile View](mobileview.png)
