@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Built with Astro](https://img.shields.io/badge/Built%20with-Astro-FF5D01?style=for-the-badge&logo=astro)](https://astro.build)
 
-> A modern, responsive portfolio website showcasing my journey as a Data Scientist, Business Strategist, and Product Manager
+> A modern, responsive portfolio website showcasing my journey as a Data Scientist, Business Strategist, and Product Manager.
 
 ## 👨‍💼 About Me
 
@@ -13,7 +13,7 @@ Data Scientist and Business Strategist with 4+ years of experience in corporate 
 - 🎓 **MBA in Data Science** - IIM Visakhapatnam
 - 🎓 **M.Sc. in Physics** - IIT Kharagpur
 - 💼 Currently: **Chief Strategy Officer** at Biomexia Healthcare
-- 🌐 **Portfolio**: [visit here](https://parmesh-kumar-ai.vercel.app)
+- 🌐 **Portfolio (live)**: [visit here](https://parmesh-kumar-ai.vercel.app)
 
 ---
 
@@ -154,79 +154,6 @@ module.exports = {
 
 ---
 
-## 📊 Featured Projects
-
-### 1. **Advanced AI Medical Diagnosis System**
-- Predicts 23 acute chronic diseases using 31 clinical symptoms
-- Built with R Programming, ShinyApp, and RandomForest
-- Interactive dashboard for healthcare professionals
-
-### 2. **Sentiment Analysis & Regulatory Fraud Risk Dashboard**
-- AI-driven risk monitoring for corporate communications
-- Real-time compliance monitoring with SEBI/SEC alignment
-- Built with NLP, LLMs, and R Shiny
-
-### 3. **Automotive Image Classification**
-- Multi-label deep learning for 500+ car brands
-- Uses EfficientNetB0 and advanced bounding-box techniques
-- Built with Python, TensorFlow, and Computer Vision
-
-### 4. **Product Management - Strategic Improvement**
-- RICE framework for feature prioritization
-- Competitor benchmarking and GTM strategy
-- Revenue modeling and performance optimization
-
----
-
-## 💼 Professional Experience
-
-- **Chief Strategy Officer** @ Biomexia Healthcare (Oct 2025 - Present)
-- **District Sales Manager** @ Yokohama India (Jul 2024 - Sep 2025)
-- **Business Strategist & Market Analyst** @ INDQ-Healthcare/AMTZ (Apr 2023 - Jun 2023)
-
----
-
-## 🎓 Education
-
-- **MBA in Data Science** - Indian Institute of Management (IIM), Visakhapatnam (2024)
-- **M.Sc. in Physics** - Indian Institute of Technology (IIT), Kharagpur (2020)
-
-### **Professional Certifications**
-- Business Analysis with Advanced Excel - Johns Hopkins University (2025)
-- Power BI & Tableau Certification - Phoenix Global (2022)
-- Python Programming for Data Science - IBM & Google (2023)
-- SQL for Data Science - Great Learning (2024)
-- R Programming Certification - Simplilearn (2023)
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email**: [parmesh.kumar.ai@gmail.com](mailto:parmesh.kumar.ai@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/parmesh-kumar](https://linkedin.com/in/parmesh-kumar-ai)
-- 🐱 **GitHub**: [github.com/parmesh-kumar-ai](https://github.com/parmesh-kumar-ai)
-- 🎨 **Behance**: [behance.net/parmeshkumar](https://behance.net/parmesh-kumar-ai)
-
----
-
-## 🌟 Key Skills
-
-### **Technical Skills**
-- **Languages**: Python, R, SQL, JavaScript
-- **ML/AI**: Machine Learning, NLP, LLMs, Computer Vision, Deep Learning
-- **Data Science**: Predictive Modeling, Statistical Analysis, Time-Series Analysis
-- **Visualization**: Power BI, Tableau, R Shiny
-- **Tools**: TensorFlow, Scikit-learn, Pandas, NumPy
-
-### **Business Skills**
-- Corporate Strategy & Business Planning
-- Product Management (RICE Framework)
-- Sales & Channel Management
-- Market Analysis & GTM Strategy
-- Data-Driven Decision Making
-
----
-
 ## 📈 GitHub Stats
 
 ![Parmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=radical)
@@ -321,17 +248,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Quick Links
 
-- [Live Portfolio](https://parmesh-kumar-ai.vercel.app)
-- [LinkedIn Profile](https://linkedin.com/in/parmesh-kumar-ai)
-- [GitHub Profile](https://github.com/parmesh-kumar-ai)
-- [Email Me](mailto:parmesh.kumar.ai@gmail.com)
+- 📧 **Email**: [parmesh.kumar.ai@gmail.com](mailto:parmesh.kumar.ai@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/parmesh-kumar-ai](https://linkedin.com/in/parmesh-kumar-ai)
+- 🐱 **GitHub**: [github.com/parmesh-kumar-ai](https://github.com/parmesh-kumar-ai)
+- 🎨 **Behance**: [behance.net/parmesh-kumar-ai](https://behance.net/parmesh-kumar-ai)
 
 ---
 
 <div align="center">
 
 **Open to opportunities in Data Science, Business Strategy, Consulting, and Product Management**
-
-[View Portfolio](https://parmesh-kumar-ai.vercel.app) • [Contact Me](mailto:parmesh.kumar.ai@gmail.com)
-
 </div>
