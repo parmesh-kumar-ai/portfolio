@@ -1,302 +1,340 @@
-# 🚀 AstroWind
+# 🚀 Parmesh Kumar - Professional Portfolio
 
-<img src="https://raw.githubusercontent.com/arthelokyo/.github/main/resources/astrowind/lighthouse-score.png" align="right"
-     alt="AstroWind Lighthouse Score" width="100" height="358">
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-portfolio-url.vercel.app)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Built with Astro](https://img.shields.io/badge/Built%20with-Astro-FF5D01?style=for-the-badge&logo=astro)](https://astro.build)
 
-🌟 _Most *starred* & *forked* Astro theme in 2022, 2023 & 2024_. 🌟
+> A modern, responsive portfolio website showcasing my journey as a Data Scientist, Business Strategist, and Product Manager
 
-**AstroWind** is a free and open-source template to make your website using **[Astro 5.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
+## 👨‍💼 About Me
 
-- ✅ **Production-ready** scores in **PageSpeed Insights** reports.
-- ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
-- ✅ **Fast and SEO friendly blog** with automatic **RSS feed**, **MDX** support, **Categories & Tags**, **Social Share**, ...
-- ✅ **Image Optimization** (using new **Astro Assets** and **Unpic** for Universal image CDN).
-- ✅ Generation of **project sitemap** based on your routes.
-- ✅ **Open Graph tags** for social media sharing.
-- ✅ **Analytics** built-in Google Analytics, and Splitbee integration.
+Data Scientist and Business Strategist with 4+ years of experience in corporate strategy, AI/ML, product management, and advanced analytics. Passionate about transforming data into strategic insights.
 
-<br>
+- 🎓 **MBA in Data Science** - IIM Visakhapatnam
+- 🎓 **M.Sc. in Physics** - IIT Kharagpur
+- 💼 Currently: **Chief Strategy Officer** at Biomexia Healthcare
+- 🌐 **Portfolio**: [your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
 
-![AstroWind Theme Screenshot](https://raw.githubusercontent.com/arthelokyo/.github/main/resources/astrowind/screenshot-astrowind-1.0.png)
+---
 
-[![arthelokyo](https://custom-icon-badges.demolab.com/badge/made%20by%20-arthelokyo-556bf2?style=flat-square&logo=arthelokyo&logoColor=white&labelColor=101827)](https://github.com/arthelokyo)
-[![License](https://img.shields.io/github/license/arthelokyo/astrowind?style=flat-square&color=dddddd&labelColor=000000)](https://github.com/arthelokyo/astrowind/blob/main/LICENSE.md)
-[![Maintained](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat-square)](https://github.com/arthelokyo)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/arthelokyo/astrowind#contributing)
-[![Known Vulnerabilities](https://snyk.io/test/github/arthelokyo/astrowind/badge.svg?style=flat-square)](https://snyk.io/test/github/arthelokyo/astrowind)
-[![Stars](https://img.shields.io/github/stars/arthelokyo/astrowind.svg?style=social&label=stars&maxAge=86400&color=ff69b4)](https://github.com/arthelokyo/astrowind)
-[![Forks](https://img.shields.io/github/forks/arthelokyo/astrowind.svg?style=social&label=forks&maxAge=86400&color=ff69b4)](https://github.com/arthelokyo/astrowind)
+## ✨ Features
 
-<br>
+- 🎨 **Modern Design** - Clean, professional, and visually appealing
+- 📱 **Fully Responsive** - Optimized for desktop, tablet, and mobile
+- 🌙 **Dark Mode** - Toggle between light and dark themes
+- ⚡ **Fast Performance** - Built with Astro for optimal speed
+- 🎯 **Interactive UI** - Smooth animations and hover effects
+- 📊 **Project Showcase** - 4 featured AI/ML projects with detailed descriptions
+- 💼 **Experience Timeline** - Interactive career journey visualization
+- 🎓 **Education & Certifications** - Academic excellence and professional credentials
+- 📧 **Contact Section** - Easy ways to get in touch
 
-<details open>
-<summary>Table of Contents</summary>
+---
 
-- [Demo](#demo)
-- [Upcoming: AstroWind 2.0 – We Need Your Vision!](#-upcoming-astrowind-20--we-need-your-vision)
-- [TL;DR](#tldr)
-- [Getting started](#getting-started)
-  - [Project structure](#project-structure)
-  - [Commands](#commands)
-  - [Configuration](#configuration)
-  - [Deploy](#deploy)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Related Projects](#related-projects)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+## 🛠️ Tech Stack
 
-</details>
+### **Frontend Framework**
+- [Astro](https://astro.build) - Modern static site generator
+- [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework
+- TypeScript - Type-safe JavaScript
 
-<br>
+### **Components & UI**
+- Custom Astro Components
+- Responsive Navigation
+- Interactive Timeline
+- Project Cards with Hover Effects
 
-## Demo
+### **Deployment**
+- [Vercel](https://vercel.com) - Serverless deployment platform
+- Automatic CI/CD from GitHub
 
-📌 [https://astrowind.vercel.app/](https://astrowind.vercel.app/)
+---
 
-<br>
-
-## 🔔 Upcoming: AstroWind 2.0 – We Need Your Vision!
-
-We're embarking on an exciting journey with **AstroWind 2.0**, and we want you to be a part of it! We're currently taking the first steps in developing this new version and your insights are invaluable. Join the discussion and share your feedback, ideas, and suggestions to help shape the future of **AstroWind**. Let's make **AstroWind 2.0** even better, together!
-
-[Share Your Feedback in Our Discussion!](https://github.com/arthelokyo/astrowind/discussions/392)
-
-<br>
-
-## TL;DR
-
-```shell
-npm create astro@latest -- --template arthelokyo/astrowind
-```
-
-## Getting started
-
-**AstroWind** tries to give you quick access to creating a website using [Astro 5.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/). It's a free theme which focuses on simplicity, good practices and high performance.
-
-Very little vanilla javascript is used only to provide basic functionality so that each developer decides which framework (React, Vue, Svelte, Solid JS...) to use and how to approach their goals.
-
-In this version the template supports all the options in the `output` configuration, `static`, `hybrid` and `server`, but the blog only works with `prerender = true`. We are working on the next version and aim to make it fully compatible with SSR.
-
-### Project structure
-
-Inside **AstroWind** template, you'll see the following folders and files:
+## 📂 Project Structure
 
 ```
-/
+portfolio/
 ├── public/
-│   ├── _headers
-│   └── robots.txt
+│   ├── images/          # Images and assets
+│   └── resume.pdf       # Downloadable resume
 ├── src/
-│   ├── assets/
-│   │   ├── favicons/
-│   │   ├── images/
-│   │   └── styles/
-│   │       └── tailwind.css
-│   ├── components/
-│   │   ├── blog/
-│   │   ├── common/
-│   │   ├── ui/
-│   │   ├── widgets/
-│   │   │   ├── Header.astro
-│   │   │   └── ...
-│   │   ├── CustomStyles.astro
-│   │   ├── Favicons.astro
-│   │   └── Logo.astro
-│   ├── content/
-│   │   ├── post/
-│   │   │   ├── post-slug-1.md
-│   │   │   ├── post-slug-2.mdx
-│   │   │   └── ...
-│   │   └-- config.ts
-│   ├── layouts/
-│   │   ├── Layout.astro
-│   │   ├── MarkdownLayout.astro
-│   │   └── PageLayout.astro
-│   ├── pages/
-│   │   ├── [...blog]/
-│   │   │   ├── [category]/
-│   │   │   ├── [tag]/
-│   │   │   ├── [...page].astro
-│   │   │   └── index.astro
-│   │   ├── index.astro
-│   │   ├── 404.astro
-│   │   ├-- rss.xml.ts
-│   │   └── ...
-│   ├── utils/
-│   ├── config.yaml
-│   └── navigation.js
-├── package.json
-├── astro.config.ts
-└── ...
+│   ├── components/      # Reusable Astro components
+│   │   └── widgets/     # Header, Footer, Hero, etc.
+│   ├── layouts/         # Page layouts
+│   ├── pages/           # Route pages
+│   │   └── index.astro  # Main homepage
+│   ├── styles/          # Global styles
+│   └── navigation.js    # Navigation configuration
+├── astro.config.mjs     # Astro configuration
+├── tailwind.config.js   # Tailwind CSS configuration
+├── package.json         # Dependencies
+└── README.md           # This file
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🚀 Getting Started
 
-Any static assets, like images, can be placed in the `public/` directory if they do not require any transformation or in the `assets/` directory if they are imported directly.
+### **Prerequisites**
 
-[![Edit AstroWind on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://githubbox.com/arthelokyo/astrowind/tree/main) [![Open in Gitpod](https://svgshare.com/i/xdi.svg)](https://gitpod.io/?on=gitpod#https://github.com/arthelokyo/astrowind) [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/arthelokyo/astrowind)
+- Node.js 18+ installed
+- npm or yarn package manager
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file `README.md`. Update `src/config.yaml` and contents. Have fun!
+### **Installation**
 
-<br>
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/parmesh-kumar-ai/portfolio.git
+   cd portfolio
+   ```
 
-### Commands
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-All commands are run from the root of the project, from a terminal:
+3. **Run development server**
+   ```bash
+   npm run dev
+   ```
 
-| Command             | Action                                             |
-| :------------------ | :------------------------------------------------- |
-| `npm install`       | Installs dependencies                              |
-| `npm run dev`       | Starts local dev server at `localhost:4321`        |
-| `npm run build`     | Build your production site to `./dist/`            |
-| `npm run preview`   | Preview your build locally, before deploying       |
-| `npm run check`     | Check your project for errors                      |
-| `npm run fix`       | Run Eslint and format codes with Prettier          |
-| `npm run astro ...` | Run CLI commands like `astro add`, `astro preview` |
+4. **Open in browser**
+   ```
+   http://localhost:4321
+   ```
 
-<br>
+### **Build for Production**
 
-### Configuration
-
-Basic configuration file: `./src/config.yaml`
-
-```yaml
-site:
-  name: 'Example'
-  site: 'https://example.com'
-  base: '/' # Change this if you need to deploy to Github Pages, for example
-  trailingSlash: false # Generate permalinks with or without "/" at the end
-
-  googleSiteVerificationId: false # Or some value,
-
-# Default SEO metadata
-metadata:
-  title:
-    default: 'Example'
-    template: '%s — Example'
-  description: 'This is the default meta description of Example website'
-  robots:
-    index: true
-    follow: true
-  openGraph:
-    site_name: 'Example'
-    images:
-      - url: '~/assets/images/default.png'
-        width: 1200
-        height: 628
-    type: website
-  twitter:
-    handle: '@twitter_user'
-    site: '@twitter_user'
-    cardType: summary_large_image
-
-i18n:
-  language: en
-  textDirection: ltr
-
-apps:
-  blog:
-    isEnabled: true # If the blog will be enabled
-    postsPerPage: 6 # Number of posts per page
-
-    post:
-      isEnabled: true
-      permalink: '/blog/%slug%' # Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
-      robots:
-        index: true
-
-    list:
-      isEnabled: true
-      pathname: 'blog' # Blog main path, you can change this to "articles" (/articles)
-      robots:
-        index: true
-
-    category:
-      isEnabled: true
-      pathname: 'category' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
-      robots:
-        index: true
-
-    tag:
-      isEnabled: true
-      pathname: 'tag' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
-      robots:
-        index: false
-
-    isRelatedPostsEnabled: true # If a widget with related posts is to be displayed below each post
-    relatedPostsCount: 4 # Number of related posts to display
-
-analytics:
-  vendors:
-    googleAnalytics:
-      id: null # or "G-XXXXXXXXXX"
-
-ui:
-  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
-```
-
-<br>
-
-#### Customize Design
-
-To customize Font families, Colors or more Elements refer to the following files:
-
-- `src/components/CustomStyles.astro`
-- `src/assets/styles/tailwind.css`
-
-### Deploy
-
-#### Deploy to production (manual)
-
-You can create an optimized production build with:
-
-```shell
+```bash
 npm run build
 ```
 
-Now, your website is ready to be deployed. All generated files are located at
-`dist` folder, which you can deploy the folder to any hosting service you
-prefer.
+The built site will be in the `dist/` folder.
 
-#### Deploy to Netlify
+### **Preview Production Build**
 
-Clone this repository on your own GitHub account and deploy it to Netlify:
+```bash
+npm run preview
+```
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/arthelokyo/astrowind)
+---
 
-#### Deploy to Vercel
+## 🎨 Customization
 
-Clone this repository on your own GitHub account and deploy to Vercel:
+### **Update Personal Information**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Farthelokyo%2Fastrowind)
+1. **Edit** `src/pages/index.astro`
+2. **Update** navigation in `src/navigation.js`
+3. **Replace** images in `public/images/`
+4. **Add** your resume to `public/resume.pdf`
 
-<br>
+### **Modify Colors & Styling**
 
-## Frequently Asked Questions
+Edit `tailwind.config.js` for theme customization:
 
-- Why?
--
--
+```javascript
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        primary: '#your-color',
+        // Add your custom colors
+      }
+    }
+  }
+}
+```
 
-<br>
+### **Update Content**
 
-## Related projects
+- **Projects**: Edit the projects section in `index.astro`
+- **Experience**: Modify work experience timeline
+- **Skills**: Update technical and business skills
+- **Education**: Add or modify degrees and certifications
 
-- [TailNext](https://tailnext.vercel.app/) - Free template using Next.js 14 and Tailwind CSS with the new App Router.
-- [Qwind](https://qwind.pages.dev/) - Free template to make your website using Qwik + Tailwind CSS.
+---
 
-## Contributing
+## 📊 Featured Projects
 
-If you have any ideas, suggestions or find any bugs, feel free to open a discussion, an issue or create a pull request.
-That would be very useful for all of us and we would be happy to listen and take action.
+### 1. **Advanced AI Medical Diagnosis System**
+- Predicts 23 acute chronic diseases using 31 clinical symptoms
+- Built with R Programming, ShinyApp, and RandomForest
+- Interactive dashboard for healthcare professionals
 
-## Acknowledgements
+### 2. **Sentiment Analysis & Regulatory Fraud Risk Dashboard**
+- AI-driven risk monitoring for corporate communications
+- Real-time compliance monitoring with SEBI/SEC alignment
+- Built with NLP, LLMs, and R Shiny
 
-Initially created by **Arthelokyo** and maintained by a community of [contributors](https://github.com/arthelokyo/astrowind/graphs/contributors).
+### 3. **Automotive Image Classification**
+- Multi-label deep learning for 500+ car brands
+- Uses EfficientNetB0 and advanced bounding-box techniques
+- Built with Python, TensorFlow, and Computer Vision
 
-## License
+### 4. **Product Management - Strategic Improvement**
+- RICE framework for feature prioritization
+- Competitor benchmarking and GTM strategy
+- Revenue modeling and performance optimization
 
-**AstroWind** is licensed under the MIT license — see the [LICENSE](./LICENSE.md) file for details.
+---
+
+## 💼 Professional Experience
+
+- **Chief Strategy Officer** @ Biomexia Healthcare (Oct 2025 - Present)
+- **District Sales Manager** @ Yokohama India (Jul 2024 - Sep 2025)
+- **Business Strategist & Market Analyst** @ INDQ-Healthcare/AMTZ (Apr 2023 - Jun 2023)
+
+---
+
+## 🎓 Education
+
+- **MBA in Data Science** - Indian Institute of Management (IIM), Visakhapatnam (2024)
+- **M.Sc. in Physics** - Indian Institute of Technology (IIT), Kharagpur (2020)
+
+### **Professional Certifications**
+- Business Analysis with Advanced Excel - Johns Hopkins University (2025)
+- Power BI & Tableau Certification - Phoenix Global (2022)
+- Python Programming for Data Science - IBM & Google (2023)
+- SQL for Data Science - Great Learning (2024)
+- R Programming Certification - Simplilearn (2023)
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email**: [parmesh.kumar.ai@gmail.com](mailto:parmesh.kumar.ai@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/parmesh-kumar](https://linkedin.com/in/parmesh-kumar)
+- 🐱 **GitHub**: [github.com/parmesh-kumar-ai](https://github.com/parmesh-kumar-ai)
+- 🎨 **Behance**: [behance.net/parmeshkumar](https://behance.net/parmeshkumar)
+- 📍 **Location**: Delhi, India
+
+---
+
+## 🌟 Key Skills
+
+### **Technical Skills**
+- **Languages**: Python, R, SQL, JavaScript
+- **ML/AI**: Machine Learning, NLP, LLMs, Computer Vision, Deep Learning
+- **Data Science**: Predictive Modeling, Statistical Analysis, Time-Series Analysis
+- **Visualization**: Power BI, Tableau, R Shiny
+- **Tools**: TensorFlow, Scikit-learn, Pandas, NumPy
+
+### **Business Skills**
+- Corporate Strategy & Business Planning
+- Product Management (RICE Framework)
+- Sales & Channel Management
+- Market Analysis & GTM Strategy
+- Data-Driven Decision Making
+
+---
+
+## 📈 GitHub Stats
+
+![Parmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Contributing
+
+While this is a personal portfolio, suggestions and feedback are welcome!
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- Built with [AstroWind](https://github.com/onwidget/astrowind) template
+- Icons from [Tabler Icons](https://tabler-icons.io/)
+- Deployed on [Vercel](https://vercel.com)
+- Design inspiration from modern portfolio trends
+
+---
+
+## 📊 Project Status
+
+- ✅ **Live**: Portfolio is deployed and accessible
+- ✅ **Maintained**: Regularly updated with new projects and skills
+- ✅ **Open to Opportunities**: Currently seeking roles in Data Science, Business Strategy, Consulting, and Product Management
+
+---
+
+## 🎯 Future Enhancements
+
+- [ ] Add blog section for technical articles
+- [ ] Integrate Google Analytics for visitor tracking
+- [ ] Add testimonials section
+- [ ] Create case studies for major projects
+- [ ] Add interactive data visualizations
+- [ ] Implement project filtering by technology/category
+
+---
+
+## 💡 Tips for Using This Portfolio
+
+### **For Recruiters**
+- Check out the [Projects](#-featured-projects) section for my technical capabilities
+- Review my [Experience](#-professional-experience) for business impact
+- Download my [resume](public/resume.pdf) for detailed information
+
+### **For Developers**
+- Feel free to fork and customize for your own use
+- The code is well-documented and easy to modify
+- Follow the [customization guide](#-customization) above
+
+### **For Collaboration**
+- I'm open to interesting projects and opportunities
+- Reach out via [email](mailto:parmesh.kumar.ai@gmail.com) or [LinkedIn](https://linkedin.com/in/parmesh-kumar)
+
+---
+
+<div align="center">
+
+### ⭐ If you like this portfolio, give it a star!
+
+**Made with ❤️ by [Parmesh Kumar](https://github.com/parmesh-kumar-ai)**
+
+</div>
+
+---
+
+## 📱 Screenshots
+
+### Desktop View
+![Desktop Screenshot](screenshots/desktop.png)
+
+### Mobile View
+![Mobile Screenshot](screenshots/mobile.png)
+
+### Dark Mode
+![Dark Mode Screenshot](screenshots/dark-mode.png)
+
+---
+
+## 🔗 Quick Links
+
+- [Live Portfolio](https://your-portfolio-url.vercel.app)
+- [Resume PDF](public/resume.pdf)
+- [LinkedIn Profile](https://linkedin.com/in/parmesh-kumar)
+- [GitHub Profile](https://github.com/parmesh-kumar-ai)
+- [Email Me](mailto:parmesh.kumar.ai@gmail.com)
+
+---
+
+<div align="center">
+
+**Open to opportunities in Data Science, Business Strategy, Consulting, and Product Management**
+
+[View Portfolio](https://your-portfolio-url.vercel.app) • [Download Resume](public/resume.pdf) • [Contact Me](mailto:parmesh.kumar.ai@gmail.com)
+
+</div>
