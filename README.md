@@ -124,21 +124,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 Project Status
-
-- ✅ **Live**: Portfolio is deployed and accessible
-- ✅ **Maintained**: Regularly updated with new projects and skills
-- ✅ **Open to Opportunities**: Currently seeking roles in Data Science, Business Strategy, Consulting, and Product Management
-
----
-
-<div align="center">
-
 ### ⭐ If you like this portfolio, give it a star!
 
 **Made by [Parmesh Kumar](https://github.com/parmesh-kumar-ai)**
-
-</div>
 
 ---
 
