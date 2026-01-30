@@ -6,15 +6,6 @@
 
 > A modern, responsive portfolio website showcasing my journey as a Data Scientist, Business Strategist, and Product Manager.
 
-## 👨‍💼 About Me
-
-Data Scientist and Business Strategist with 4+ years of experience in corporate strategy, AI/ML, product management, and advanced analytics. Passionate about transforming data into strategic insights.
-
-- 🎓 **MBA in Data Science** - IIM Visakhapatnam
-- 🎓 **M.Sc. in Physics** - IIT Kharagpur
-- 💼 Currently: **Chief Strategy Officer** at Biomexia Healthcare
-- 🌐 **Portfolio (live)**: [visit here](https://parmesh-kumar-ai.vercel.app)
-
 ---
 
 ## ✨ Features
