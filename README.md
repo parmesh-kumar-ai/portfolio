@@ -119,34 +119,6 @@ npm run preview
 
 ---
 
-## 🎨 Customization
-
-### **Update Personal Information**
-
-1. **Edit** `src/pages/index.astro`
-2. **Update** navigation in `src/navigation.js`
-3. **Replace** images in `public/images/`
-4. **Add** your resume to `public/resume.pdf`
-
-### **Modify Colors & Styling**
-
-Edit `tailwind.config.js` for theme customization:
-
-```javascript
-module.exports = {
-  theme: {
-    extend: {
-      colors: {
-        primary: '#your-color',
-        // Add your custom colors
-      }
-    }
-  }
-}
-```
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -198,10 +170,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💼 **LinkedIn**: [linkedin.com/in/parmesh-kumar-ai](https://linkedin.com/in/parmesh-kumar-ai)
 - 🐱 **GitHub**: [github.com/parmesh-kumar-ai](https://github.com/parmesh-kumar-ai)
 - 🎨 **Behance**: [behance.net/parmesh-kumar-ai](https://behance.net/parmesh-kumar-ai)
-
----
-
-<div align="center">
-
-**Open to opportunities in Data Science, Business Strategy, Consulting, and Product Management**
-</div>
