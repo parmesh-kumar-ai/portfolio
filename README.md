@@ -145,31 +145,6 @@ module.exports = {
 }
 ```
 
-### **Update Content**
-
-- **Projects**: Edit the projects section in `index.astro`
-- **Experience**: Modify work experience timeline
-- **Skills**: Update technical and business skills
-- **Education**: Add or modify degrees and certifications
-
----
-
-## 📈 GitHub Stats
-
-![Parmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=radical)
-
----
-
-## 🤝 Contributing
-
-While this is a personal portfolio, suggestions and feedback are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ---
 
 ## 📝 License
@@ -183,7 +158,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [AstroWind](https://github.com/onwidget/astrowind) template
 - Icons from [Tabler Icons](https://tabler-icons.io/)
 - Deployed on [Vercel](https://vercel.com)
-- Design inspiration from modern portfolio trends
 
 ---
 
@@ -192,34 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ **Live**: Portfolio is deployed and accessible
 - ✅ **Maintained**: Regularly updated with new projects and skills
 - ✅ **Open to Opportunities**: Currently seeking roles in Data Science, Business Strategy, Consulting, and Product Management
-
----
-
-## 🎯 Future Enhancements
-
-- [ ] Add blog section for technical articles
-- [ ] Integrate Google Analytics for visitor tracking
-- [ ] Add testimonials section
-- [ ] Create case studies for major projects
-- [ ] Add interactive data visualizations
-- [ ] Implement project filtering by technology/category
-
----
-
-## 💡 Tips for Using This Portfolio
-
-### **For Recruiters**
-- Check out the [Projects](#-featured-projects) section for my technical capabilities
-- Review my [Experience](#-professional-experience) for business impact
-
-### **For Developers**
-- Feel free to fork and customize for your own use
-- The code is well-documented and easy to modify
-- Follow the [customization guide](#-customization) above
-
-### **For Collaboration**
-- I'm open to interesting projects and opportunities
-- Reach out via [email](mailto:parmesh.kumar.ai@gmail.com) or [LinkedIn](https://linkedin.com/in/parmesh-kumar-ai)
 
 ---
 
