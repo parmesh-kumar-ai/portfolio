@@ -126,8 +126,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you like this portfolio, give it a star!
 
-**Made by [Parmesh Kumar](https://github.com/parmesh-kumar-ai)**
-
 ---
 
 ## 📱 Screenshots
